@@ -1,8 +1,7 @@
-# Grette-Hub
-Hello, World! Welcome to my hub. 
+Hello, World! Welcome to my Hub. 👋
 
 
-<h1 align="center">Hi 👋, I'm Grette</h1>
+<h1 align="center">I'm Grette</h1>
 <h3 align="center">A constant learner navigating the world of technology and data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grettethel&label=Profile%20views&color=0e75b6&style=flat" alt="grettethel" /> </p>
