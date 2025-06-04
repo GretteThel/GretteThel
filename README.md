@@ -1,4 +1,4 @@
-# Full dark-themed GitHub README HTML version for GretteThel
+
 
 full_dark_readme_html = """
 <h1 align="center"> Hello, World! Welcome to my Hub. 👋 I'm Grette! <3 </h1>
@@ -107,9 +107,3 @@ Trained classification and regression models. Completed labs on feature engineer
 
 > “The best way to learn is by building. I’m passionate about solving problems through data and technology.”
 """
-
-# Save the updated dark-themed HTML version
-html_readme_path = Path("/mnt/data/README_GretteThel_DarkHTML.md")
-html_readme_path.write_text(full_dark_readme_html)
-
-html_readme_path.name
