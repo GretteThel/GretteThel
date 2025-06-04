@@ -1,7 +1,9 @@
 
 
 <h1 align="center"> Hello, World! Welcome to my Hub. 👋 I'm Grette! <3 </h1>
-<h3 align="center">A constant learner navigating the world of technology and data.</h3>
+<h3 align="center">💡 About Me
+
+I'm a data science student with a background in business operations and workforce management. Currently transitioning into tech, I combine leadership experience with hands-on skills in Python, cloud platforms, and data visualization. Passionate about building data-driven solutions that make real-world impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grettethel&label=Profile%20views&color=0e75b6&style=flat" alt="grettethel" /> </p>
 
