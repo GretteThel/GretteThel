@@ -1,6 +1,5 @@
 
 
-full_dark_readme_html = """
 <h1 align="center"> Hello, World! Welcome to my Hub. 👋 I'm Grette! <3 </h1>
 <h3 align="center">A constant learner navigating the world of technology and data.</h3>
 
