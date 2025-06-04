@@ -64,4 +64,3 @@ Trained classification and regression models. Completed labs on feature engineer
 
 > “The best way to learn is by building. I’m passionate about solving problems through data and technology.”
 
-"""
