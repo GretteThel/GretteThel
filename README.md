@@ -9,11 +9,6 @@
 
 - 🌱 I’m currently learning **BeSA, Data Engineering track**
 
-- 📫 How to reach me **grelagmabi@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ---
 
@@ -58,6 +53,12 @@ Trained classification and regression models. Completed labs on feature engineer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grettethel&show_icons=true&locale=en" alt="grettethel" /></p>
 
+---
+
+## 💬 Let’s Connect!
+
+- 📩 Email: grelagmabi@outlook.com
+- 🔗 [LinkedIn](https://linkedin.com/in/grethelm)
 
 ---
 
