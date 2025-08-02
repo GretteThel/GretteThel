@@ -13,10 +13,6 @@ I'm a data science student with a background in business operations, people mana
   </a>
 </p>
 
-- 🔭 I’m currently working on **Data Engineering & Solutions Architect program**
-
-- 🌱 I’m currently learning **BeSA, Data Engineering track**
-
 ---
 
 ## 🚀 Featured Projects
