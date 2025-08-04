@@ -17,6 +17,11 @@ I'm a data science student with a background in business operations, people mana
 
 ## 🚀 Featured Projects
 
+### [Norway Weather Dashboard](https://github.com/GretteThel/norway-weather-dashboard)  
+**Tools:** Streamlit, Met.no API, Open-Meteo
+A real-time weather app for Norway with 10-day forecast, sunrise/sunset tracking, and a mobile-friendly UI. Built with a focus on accessibility, dark/light themes, and seamless deployment.
+
+
 ### [Global Climate Change – A Data-Driven Analysis](https://github.com/GretteThel/Global-Climate-Change-A-Data-Driven-Analysis)
 **Tools:** Python, Pandas, Matplotlib  
 Analyzed 100+ years of climate data. Visualized temperature anomalies, sea-level rise, and CO₂ emissions to support climate research.
